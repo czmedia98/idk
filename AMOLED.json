@@ -118,11 +118,11 @@
          "#FFFFFF"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-         "transparent",
+         "#FFFFFF",
          "#FFFFFF"
       ],
       "CHANNELS_DEFAULT": [
-         "#FFFFFF",
+         "#B6B6B6",
          "#FFFFFF"
       ]
    },
@@ -143,86 +143,4 @@
    "unsafe_colors": {
       "CHAT_GREY": "#000000"
    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
 }

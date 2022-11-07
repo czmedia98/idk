@@ -118,7 +118,7 @@
          "#FFFFFF"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-         "#FFFFFF",
+         "transparent",
          "#FFFFFF"
       ],
       "CHANNELS_DEFAULT": [
